@@ -1,0 +1,12 @@
+.idea/
+target/
+*.iml
+
+soap-client/.idea/
+soap-client/target/
+soap-client/*.iml
+
+
+soap-provider/.idea/
+soap-provider/target/
+soap-provider/*.iml
